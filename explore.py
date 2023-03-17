@@ -33,7 +33,7 @@ def explore():
     """)
     st.markdown("##")
     st.altair_chart(
-        alt.Chart(data).mark_bar(color='white').encode(
+        alt.Chart(df).mark_bar(color='white').encode(
             x='date:T',
             y="money_raised:Q",
             
@@ -50,7 +50,7 @@ def explore():
     """)
     st.markdown("##")
     st.altair_chart(
-        alt.Chart(data).mark_bar(color='white').encode(
+        alt.Chart(df).mark_bar(color='white').encode(
             x='round_name',
             y="money_raised:Q",
             
