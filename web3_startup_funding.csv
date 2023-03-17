@@ -1,0 +1,113 @@
+,Unnamed: 0,name,date,round_name,no_of_investors_round,money_raised,lead_inverstor_name
+0,0,dune-analytics,2022-02-02,Series B - Dune Analytics,4,"69,400,000.00",Coatue
+1,1,dune-analytics,2021-08-12,Series A - Dune Analytics,4,"8,000,000.00",Union Square Ventures
+2,2,dune-analytics,2020-09-23,Seed Round - Dune Analytics,18,"2,000,000.00",Dragonfly
+3,3,pinata-59fc,2022-08-09,Series A - Pinata,4,"18,000,000.00","Greylock, Pantera Capital"
+4,4,pinata-59fc,2021-05-10,Seed Round - Pinata,2,"3,600,000.00","Greylock, Offline Ventures"
+5,5,pinata-59fc,2019-12-24,Pre Seed Round - Pinata,2,"150,000.00",Invest Nebraska
+6,6,bitscrunch,2022-10-01,Seed Round - bitsCrunch,10,"2,000,000.00",HashKey Capital
+7,7,bitscrunch,2022-01-01,Pre Seed Round - bitsCrunch,20,"3,600,000.00",Animoca Brands
+8,8,bitscrunch,2021-06-01,Seed Round - bitsCrunch,6,"750,000.00",Genblock Capital
+9,9,covalent-92e3,2021-03-24,Venture Round - Covalent,14,"2,000,000.00",Hashed
+10,10,covalent-92e3,2020-10-07,Venture Round - Covalent,7,"3,100,000.00","1kx, Woodstock Fund"
+11,11,covalent-92e3,2020-06-03,Non Equity Assistance - Covalent,2,0.00,—
+12,12,covalent-92e3,2018-03-02,Pre Seed Round - Covalent,1,0.00,Victory Square
+13,13,guardian-link,2021-11-16,Series A - Guardian Link,1,"12,000,000.00",Kalaari Capital
+14,14,chainalysis,2022-05-11,Series F - Chainalysis,7,"170,000,000.00",GIC
+15,15,chainalysis,2021-06-24,Series E - Chainalysis,13,"100,000,000.00",Coatue
+16,16,chainalysis,2021-03-26,Series D - Chainalysis,6,"100,000,000.00",Paradigm
+17,17,chainalysis,2020-11-23,Series C - Chainalysis,5,"100,000,000.00",Addition
+18,18,chainalysis,2020-07-07,Series B - Chainalysis,2,"13,000,000.00","Ribbit Capital, Sound Ventures"
+19,19,chainalysis,2019-04-16,Series B - Chainalysis,3,"6,000,000.00","MUFG Innovation Partners, Sozo Ventures"
+20,20,chainalysis,2019-02-12,Series B - Chainalysis,2,"30,000,000.00",Accel
+21,21,chainalysis,2018-04-05,Series A - Chainalysis,4,"16,000,000.00",Benchmark
+22,22,chainalysis,2016-02-19,Seed Round - Chainalysis,6,"1,600,000.00",Point Nine
+23,23,chainalysis,2015-07-01,Seed Round - Chainalysis,1,"20,000.00",Techstars
+24,24,numerai,2023-02-08,Venture Round - Numerai,1,"5,000,000.00",—
+25,25,numerai,2020-06-03,Initial Coin Offering - Numerai,5,"3,000,000.00",Union Square Ventures
+26,26,numerai,2019-05-05,Funding Round - Numerai,—,0.00,—
+27,27,numerai,2019-03-21,Initial Coin Offering - Numerai,2,"11,000,000.00","Paradigm, Placeholder"
+28,28,numerai,2018-06-01,Funding Round - Numerai,—,0.00,—
+29,29,numerai,2016-12-12,Series A - Numerai,5,"6,000,000.00",Union Square Ventures
+30,30,numerai,2016-04-06,Venture Round - Numerai,9,"7,500,000.00",Howard Morgan
+31,31,deepnftvalue,2022-07-12,Seed Round - DeepNFTValue,3,"4,000,000.00",Rockaway Blockchain Fund
+32,32,upshot-d781,2022-03-22,Series A - Upshot,7,"22,000,000.00",Polychain
+33,33,upshot-d781,2021-05-06,Series A - Upshot,29,"7,500,000.00","Blockchain Capital, CoinFund, Framework Ventures"
+34,34,upshot-d781,2020-02-19,Seed Round - Upshot,—,"1,000,000.00",—
+35,35,ml-tech,2022-12-20,Venture Round - ML Tech,4,"1,900,000.00",Belvedere Strategic Capital
+36,36,ml-tech,2021-08-31,Seed Round - ML Tech,5,"1,800,000.00",—
+37,37,immunefi,2022-09-22,Series A - Immunefi,9,"24,000,000.00",Framework Ventures
+38,38,immunefi,2021-10-26,Seed Round - Immunefi,10,"5,500,000.00","Blueprint Forest, Electric Capital"
+39,39,ethereum-push-notification-service,2022-04-14,Series A - Push Protocol,14,"10,100,000.00",Jump Crypto
+40,40,ethereum-push-notification-service,2021-03-29,Seed Round - Push Protocol,10,"660,000.00",—
+41,41,ethereum-push-notification-service,2020-12-08,Seed Round - Push Protocol,29,"1,400,000.00",—
+42,42,ethereum-push-notification-service,2020-12-01,Seed Round - Push Protocol,3,0.00,—
+43,43,nftport,2022-06-15,Series A - NFTPort,10,"26,000,000.00","Atomico, Taavet+Sten"
+44,44,connext-inc,2021-07-13,Series A - Connext,15,"12,000,000.00","1kx, ConsenSys Mesh"
+45,45,connext-inc,2021-03-19,Seed Round - Connext,3,"2,200,000.00",Polychain
+46,46,connext-inc,2019-11-03,Seed Round - Connext,2,"550,000.00",—
+47,47,connext-inc,2018-11-01,Grant - Connext,1,"120,000.00",—
+48,48,connext-inc,2018-01-06,Convertible Note - Connext,4,"875,000.00",—
+49,49,moralis,2022-05-11,Series A - Moralis,4,"40,000,000.00",—
+50,50,moralis,2021-10-28,Seed Round - Moralis,1,"11,500,000.00",EQT Ventures
+51,51,filecoin,2017-09-07,Initial Coin Offering - Filecoin,4,"205,800,000.00",—
+52,52,filecoin,2017-09-06,Venture Round - Filecoin,2,0.00,—
+53,53,filecoin,2017-08-10,Initial Coin Offering - Filecoin,17,"52,000,000.00",Andreessen Horowitz
+54,54,filecoin,2017-08-08,Seed Round - Filecoin,2,"300,000.00",—
+55,55,filecoin,2017-08-01,Pre Seed Round - Filecoin,1,0.00,—
+56,56,filecoin,2017-04-28,Seed Round - Filecoin,—,0.00,—
+57,57,filecoin,2014-07-16,Seed Round - Filecoin,8,"120,000.00",—
+58,58,shardeum,2022-10-18,Seed Round - Shardeum,27,"1,500,000,000.00","Big Brain Holdings, Digital Finance Group (DFG), Ghaf Capital Partners, Jane Street Capital, Struck Crypto, The Spartan Group"
+59,59,shardeum,2022-07-15,Venture Round - Shardeum,1,0.00,—
+60,60,livepeer,2022-01-05,Series B - Livepeer,5,"20,000,000.00",—
+61,61,livepeer,2021-07-29,Series B - Livepeer,11,"20,000,000.00",Digital Currency Group
+62,62,livepeer,2019-06-17,Series A - Livepeer,9,"8,000,000.00",Northzone
+63,63,livepeer,2018-02-16,Seed Round - Livepeer,1,"3,000,000.00",—
+64,64,livepeer,2017-05-17,Seed Round - Livepeer,3,0.00,—
+65,65,quiknode,2023-01-24,Series B - QuickNode,5,"60,000,000.00",10T Holdings
+66,66,quiknode,2022-05-01,Series A - QuickNode,1,"1,100,000.00",—
+67,67,quiknode,2021-10-27,Series A - QuickNode,7,"35,000,000.00",Tiger Global Management
+68,68,quiknode,2021-05-27,Seed Round - QuickNode,6,"5,300,000.00",Seven Seven Six
+69,69,quiknode,2021-01-28,Seed Round - QuickNode,3,0.00,SoftBank
+70,70,quiknode,2019-04-11,Angel Round - QuickNode,—,"250,000.00",—
+71,71,quiknode,2018-09-11,Angel Round - QuickNode,—,"250,000.00",—
+72,72,coinbase,2022-11-09,Post-IPO Equity - Coinbase,1,"21,400,000.00",ARK Investment Management
+73,73,coinbase,2021-06-07,Post-IPO Equity - Coinbase,2,"3,300,000.00",—
+74,74,coinbase,2020-10-01,Venture Round - Coinbase,1,0.00,—
+75,75,coinbase,2020-07-15,Secondary Market - Coinbase,17,0.00,DFJ Growth
+76,76,coinbase,2019-01-01,Secondary Market - Coinbase,3,0.00,—
+77,77,coinbase,2018-12-21,Series F - Coinbase,4,"22,000,000.00",—
+78,78,coinbase,2018-10-30,Series E - Coinbase,15,"300,000,000.00",Tiger Global Management
+79,79,coinbase,2018-06-03,Series D - Coinbase,1,0.00,—
+80,80,coinbase,2018-01-01,Series F - Coinbase,1,"1,700,000.00",—
+81,81,coinbase,2017-09-01,Venture Round - Coinbase,2,0.00,—
+82,82,nftically,2023-02-07,Seed Round - NFTically,5,"1,000,000.00","Polygon Ventures, The Spartan Group"
+83,83,nftically,2021-10-12,Seed Round - NFTically,7,"500,000.00",—
+84,84,nftically,2021-07-20,Seed Round - NFTically,1,0.00,Jaynti Kanani
+85,85,nftically,2021-02-19,Pre Seed Round - NFTically,1,0.00,—
+86,86,consensus-systems,2022-10-18,Secondary Market - ConsenSys,1,"1,700,000.00",—
+87,87,consensus-systems,2022-08-31,Secondary Market - ConsenSys,1,0.00,—
+88,88,consensus-systems,2022-07-27,Secondary Market - ConsenSys,1,0.00,—
+89,89,consensus-systems,2022-02-14,Series D - ConsenSys,17,"450,000,000.00",ParaFi Capital
+90,90,consensus-systems,2021-11-17,Series C - ConsenSys,14,"200,000,000.00","Marshall Wace, Third Point Ventures"
+91,91,consensus-systems,2021-04-13,Convertible Note - ConsenSys,16,"65,000,000.00",—
+92,92,consensus-systems,2020-08-25,Venture Round - ConsenSys,1,0.00,JP Morgan
+93,93,consensus-systems,2019-07-02,Venture Round - ConsenSys,1,"10,000,000.00",SK Group
+94,94,singularitynet,2022-05-19,Venture Round - SingularityNET,1,"23,600,000.00",LDA Capital
+95,95,singularitynet,2020-03-18,Venture Round - SingularityNET,1,0.00,—
+96,96,singularitynet,2019-09-01,Venture Round - SingularityNET,1,0.00,—
+97,97,singularitynet,2018-01-01,Pre Seed Round - SingularityNET,1,"5,000,000.00",—
+98,98,singularitynet,2017-12-19,Initial Coin Offering - SingularityNET,2,"36,000,000.00",—
+99,99,singularitynet,2017-11-22,Venture Round - SingularityNET,1,0.00,—
+100,100,fetch-ai,2021-03-10,Venture Round - Fetch.AI,1,"5,000,000.00",GDA Group
+101,101,fetch-ai,2019-02-25,Initial Coin Offering - Fetch.AI,—,"6,000,000.00",—
+102,102,fetch-ai,2018-06-11,Seed Round - Fetch.AI,2,"15,000,000.00",Outlier Ventures
+103,103,nftgo,2022-02-08,Seed Round - NFTGo,9,"6,800,000.00",Qiming Venture Partners
+104,104,nftgo,2021-08-11,Seed Round - NFTGo,1,"100,000.00",—
+105,105,bitquery,2022-09-27,Seed Round - Bitquery,7,"8,500,000.00","Binance Labs, dao5"
+106,106,bitquery,2019-01-01,Funding Round - Bitquery,1,0.00,—
+107,107,anchain-ai,2021-09-25,Grant - AnChain.ai,—,"50,000.00",—
+108,108,anchain-ai,2021-08-12,Series A - AnChain.ai,5,"10,000,000.00",Susquehanna International Group (SIG)
+109,109,anchain-ai,2020-02-13,Seed Round - AnChain.ai,5,"4,300,000.00","Amino Capital, Susquehanna International Group (SIG)"
+110,110,anchain-ai,2018-08-01,Seed Round - AnChain.ai,3,"2,000,000.00",Amino Capital
+111,111,blur-d734,2022-03-28,Seed Round - Blur,8,"11,000,000.00",Paradigm
