@@ -114,3 +114,8 @@ elif option == 'Fundings':
     fundings()
 elif option == 'Explore':
     explore()
+
+
+st.info(f"Data source {'https://www.crunchbase.com/'}")
+
+st.success("https://github.com/Manidills/Web3_startups")
