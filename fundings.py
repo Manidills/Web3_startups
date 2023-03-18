@@ -83,7 +83,7 @@ def fundings():
     no_of_inve_grp = data.groupby(['name']).sum().reset_index()
     st.markdown("##")
     st.write("""
-    ###  NUMBER OF INVESTORS ROUND  ###
+    ###  NUMBER OF INVESTORS  ###
     """)
     st.altair_chart(
         alt.Chart(no_of_inve_grp).mark_bar(color='yellow').encode(
